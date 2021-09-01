@@ -76,6 +76,11 @@ padding:0;
     display:flex;
     flex-direction: row;
 }
+.row-reverse{
+    display:flex;
+    flex-direction: row-reverse;
+
+}
 .subcontainer{
     text-align: center;
     background-color:#f5f4f4 ;
